@@ -32,4 +32,6 @@ int main()
 
     p.getdata();
     p.display();
+
+    return 0;
 }
